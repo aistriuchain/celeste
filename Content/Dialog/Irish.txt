@@ -81,24 +81,24 @@
 
 	OPTIONS_VIDEO=			FÍSEÁN
 	OPTIONS_FULLSCREEN=		Lánscáileán
-	OPTIONS_WINDOW=			Window Scale
-	OPTIONS_VSYNC=			Vertical Sync
-	OPTIONS_VIEWPORT_NS=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PS4=	Adjust Screen Size
-	OPTIONS_VIEWPORT_XB1=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PC=	Adjust Screen Size
-	OPTIONS_DISABLE_FLASH=	Photosensitive Mode
-	OPTIONS_DISABLE_SHAKE=	Screen Shake Effects
+	OPTIONS_WINDOW=			Scála Fuinneoige
+	OPTIONS_VSYNC=			Sinc Cheartingearach
+	OPTIONS_VIEWPORT_NS=	Oiriúnaigh Méid Scáileáin
+	OPTIONS_VIEWPORT_PS4=	Oiriúnaigh Méid Scáileáin
+	OPTIONS_VIEWPORT_XB1=	Oiriúnaigh Méid Scáileáin
+	OPTIONS_VIEWPORT_PC=	Oiriúnaigh Méid Scáileáin
+	OPTIONS_DISABLE_FLASH=	Mód Fótamhothálach
+	OPTIONS_DISABLE_SHAKE=	Éifeachtaí Crothach Scáileáin
 
 	OPTIONS_AUDIO=			CLOSÁN
 	OPTIONS_MUSIC=			Ceol
 	OPTIONS_SOUNDS=			Fuaimeanna
 
-	OPTIONS_GAMEPLAY=		GAMEPLAY
-	OPTIONS_SPEEDRUN=		Speedrun Clock
-	OPTIONS_SPEEDRUN_CHAPTER=Chapter
-	OPTIONS_SPEEDRUN_FILE=	File
-	OPTIONS_DASHES=			Dash Counter
+	OPTIONS_GAMEPLAY=		IMIRT
+	OPTIONS_SPEEDRUN=		Clog Sciuirde
+	OPTIONS_SPEEDRUN_CHAPTER=Caibidil
+	OPTIONS_SPEEDRUN_FILE=	Comhad
+	OPTIONS_DASHES=			Áiritheoir Ráibe
 	OPTIONS_LANGUAGE=		Teanga
 	OPTIONS_ON=				AR SIÚL
 	OPTIONS_OFF=			AS

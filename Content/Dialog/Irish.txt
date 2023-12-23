@@ -163,20 +163,20 @@
 
 # Assist Mode
 	ASSIST_MODE_0=
-		{# 44adf7}Assist Mode{#} allows you to modify{n}
-		the game's rules to fit your specific needs.		
+		Ligeann {# 44adf7}Mód Cúnta{#} duit rialacha an cluiche{n}
+		a mhionathrú chun do riachtanas a shásamh.		
 	ASSIST_MODE_1=
-		This includes options such as slowing the game speed,{n}
-		granting yourself invincibility or infinite stamina,{n}
-		and skipping chapters entirely.
+		Tá roghanna san áireamh mar mhoilliú luas an cluiche,{n}
+		dochloíteacht nó seasmhacht éigríochta a thabhairt duit féin,{n}
+		agus caibidlí iomlán a scipeáil.
 	ASSIST_MODE_2=
-		Celeste is intended to be a challenging and rewarding experience.{n}
-		If the default game proves inaccessible to you, we hope that{n} 
-		you can still find that experience with {# 44adf7}Assist Mode{#}.
-	ASSIST_ASK=		Would you like to play with {# 44adf7}Assist Mode{#}?
-	ASSIST_YES=		Yes
-	ASSIST_NO=		No
-	ASSIST_SKIP=	Assist{n}Skip
+		Tá sé beartaithe ag Celeste a bheith eispéireas dúshlánach agus tairbheach.{n}
+		Má fheictear duit go bhfuil an cluiche dorochtana, tá súil againn{n} 
+		gur féidir leat an eispéireas sin a aimsiú fós le {# 44adf7}Mód Cúnta{#}.
+	ASSIST_ASK=		Ar mhaith leat imirt le {# 44adf7}Mód Cúnta{#}?
+	ASSIST_YES=		Ba mhaith
+	ASSIST_NO=		Níor mhaith
+	ASSIST_SKIP=	Cúnta{n}Scipeáil
 
 # File Naming
 	NAME_LETTERS=
@@ -192,64 +192,64 @@
 	NAME_BACK=			CEALAIGH
 
 # Xbox One Stuff
-	XB1_MENU_SWITCH_PROFILE=	Switch Profile
-	XB1_SIGN_OUT_MESSAGE=		A sign-in change has occured. Please sign back in or exit to the title screen.
-	XB1_SIGN_IN=				Sign-in
-	XB1_RECONNECT_CONTROLLER=	Please reconnect your controller to continue.
+	XB1_MENU_SWITCH_PROFILE=	Athraigh Prófíl
+	XB1_SIGN_OUT_MESSAGE=		Tharla athrú próifíle. Sínigh isteach arís nó scóir go dtí an scáileán teidil, le do thoil.
+	XB1_SIGN_IN=				Sínigh isteach
+	XB1_RECONNECT_CONTROLLER=	Athcheangal do rialtán le do thoil, chun lean ar aghaidh.
 
 # Intro Vignette
-	INTRO_VIGNETTE_RESUME=	Continue
-	INTRO_VIGNETTE_SKIP=	Skip
-	INTRO_VIGNETTE_QUIT=	Quit
+	INTRO_VIGNETTE_RESUME=	Lean air
+	INTRO_VIGNETTE_SKIP=	Scipeáil
+	INTRO_VIGNETTE_QUIT=	Scoir
 
 # Overworld
-	OVERWORLD_START=			Start
-	OVERWORLD_NORMAL=			CLIMB
-	OVERWORLD_INTERLUDE=		BEGIN
-	OVERWORLD_REMIX=			B-SIDE
-	OVERWORLD_REMIX2=			C-SIDE
-	OVERWORLD_REMIX_UNLOCKED=	B-Side Unlocked!
-	OVERWORLD_REMIX_UNLOCKED2=	C-Side Unlocked!
+	OVERWORLD_START=			Tosaigh
+	OVERWORLD_NORMAL=			DREAP
+	OVERWORLD_INTERLUDE=		TOSAIGH
+	OVERWORLD_REMIX=			TAOBH-B
+	OVERWORLD_REMIX2=			TAOBH-C
+	OVERWORLD_REMIX_UNLOCKED=	Taobh-B Díghlasáilte!
+	OVERWORLD_REMIX_UNLOCKED2=	Taobh-C Díghlasáilte!
 
 # Chapter Titles
-	AREA_CHAPTER=	Chapter {x}
-	AREA_0=			Prologue
-	AREA_1=			Forsaken City
-	AREA_2=			Old Site
-	AREA_3=			Celestial Resort
-	AREA_4=			Golden Ridge
-	AREA_5=			Mirror Temple
-	AREA_6=			Reflection
-	AREA_7=			The Summit
-	AREA_8=			Epilogue
-	AREA_9=			Core
-	AREA_10=		Farewell
+	AREA_CHAPTER=	Caibidil {x}
+	AREA_0=			Réamhrá
+	AREA_1=			Cathair Tréigthe
+	AREA_2=			Seantalamh
+	AREA_3=			Ionad Saoire Neamhaí
+	AREA_4=			Iomaire Óir
+	AREA_5=			Teampall na Scáthán
+	AREA_6=			Machnamh
+	AREA_7=			An Mullach
+	AREA_8=			Eipealóg
+	AREA_9=			Croí
+	AREA_10=		Slán
 
 # Checkpoints
-	CHECKPOINT_1_0=		Crossing
-	CHECKPOINT_1_1=		Chasm
+	CHECKPOINT_1_0=		Trasbhealach
+	CHECKPOINT_1_1=		Gáibéal
 
-	CHECKPOINT_2_0=		Intervention
-	CHECKPOINT_2_1=		Awake
+	CHECKPOINT_2_0=		Ionchur
+	CHECKPOINT_2_1=		Múscailte
 
-	CHECKPOINT_3_0=		Huge Mess
-	CHECKPOINT_3_1=		Elevator Shaft
-	CHECKPOINT_3_2=		Presidential Suite
+	CHECKPOINT_3_0=		Prácás Ollmhór
+	CHECKPOINT_3_1=		Seafta Ardaitheora
+	CHECKPOINT_3_2=		Svuít an Uachtaráin
 
-	CHECKPOINT_4_0=		Shrine
-	CHECKPOINT_4_1=		Old Trail
-	CHECKPOINT_4_2=		Cliff Face
+	CHECKPOINT_4_0=		Scrín
+	CHECKPOINT_4_1=		Seanchonair
+	CHECKPOINT_4_2=		Aghaidh Aille
 
-	CHECKPOINT_5_0=		Depths
-	CHECKPOINT_5_1=		Unravelling
-	CHECKPOINT_5_2=		Search
-	CHECKPOINT_5_3=		Rescue
+	CHECKPOINT_5_0=		Doimhneachtaí
+	CHECKPOINT_5_1=		Scaoileadh
+	CHECKPOINT_5_2=		Cuardach
+	CHECKPOINT_5_3=		Tarrtháil
 
-	CHECKPOINT_6_0=		Lake
-	CHECKPOINT_6_1=		Hollows
-	CHECKPOINT_6_2=		Reflection
-	CHECKPOINT_6_3=		Rock Bottom
-	CHECKPOINT_6_4=		Resolution
+	CHECKPOINT_6_0=		Loch
+	CHECKPOINT_6_1=		Loig
+	CHECKPOINT_6_2=		Machnamh
+	CHECKPOINT_6_3=		Íochtar ar fad
+	CHECKPOINT_6_4=		Réiteach
 
 	CHECKPOINT_7_0=		500 M
 	CHECKPOINT_7_1=		1000 M
@@ -258,18 +258,18 @@
 	CHECKPOINT_7_4=		2500 M
 	CHECKPOINT_7_5=		3000 M
 
-	CHECKPOINT_8_0=		Into the Core
-	CHECKPOINT_8_1=		Hot and Cold
-	CHECKPOINT_8_2=		Heart of the Mountain
+	CHECKPOINT_8_0=		Istigh sa Chroí
+	CHECKPOINT_8_1=		Te agus Fuar
+	CHECKPOINT_8_2=		Croí an Sléibhe
 
-	CHECKPOINT_9_0=		Singular
-	CHECKPOINT_9_1=		Power Source
-	CHECKPOINT_9_2=		Remembered
-	CHECKPOINT_9_3=		Event Horizon
-	CHECKPOINT_9_4=		Determination
-	CHECKPOINT_9_5=		Stubbornness
-	CHECKPOINT_9_6=		Reconciliation
-	CHECKPOINT_9_7=		Farewell
+	CHECKPOINT_9_0=		Uatha
+	CHECKPOINT_9_1=		Foinse Chumhachta
+	CHECKPOINT_9_2=		Cuimhnithe
+	CHECKPOINT_9_3=		Léaslíne Theagmhais
+	CHECKPOINT_9_4=		Daingne
+	CHECKPOINT_9_5=		Stuacacht
+	CHECKPOINT_9_6=		Athmhuintearas
+	CHECKPOINT_9_7=		Slán
 
 # B-Side Checkpoints
 	CHECKPOINT_1H_0=	Contraption

@@ -258,7 +258,7 @@
 	CHECKPOINT_7_4=		2500 M
 	CHECKPOINT_7_5=		3000 M
 
-	CHECKPOINT_8_0=		Istigh sa Chroí
+	CHECKPOINT_8_0=		Isteach sa Chroí
 	CHECKPOINT_8_1=		Te agus Fuar
 	CHECKPOINT_8_2=		Croí an Sléibhe
 
@@ -272,27 +272,27 @@
 	CHECKPOINT_9_7=		Slán
 
 # B-Side Checkpoints
-	CHECKPOINT_1H_0=	Contraption
-	CHECKPOINT_1H_1=	Scrap Pit
+	CHECKPOINT_1H_0=	Sás
+	CHECKPOINT_1H_1=	Poll Draimh
 
-	CHECKPOINT_2H_0=	Combination Lock
-	CHECKPOINT_2H_1=	Dream Altar
+	CHECKPOINT_2H_0=	Glas Teaglama
+	CHECKPOINT_2H_1=	Altóir Aisling
 
-	CHECKPOINT_3H_0=	Staff Quarters
-	CHECKPOINT_3H_1=	Library
-	CHECKPOINT_3H_2=	Rooftop
+	CHECKPOINT_3H_0=	Ceathrúna Foirne
+	CHECKPOINT_3H_1=	Leabharlann
+	CHECKPOINT_3H_2=	Díon
 
-	CHECKPOINT_4H_0=	Stepping Stones
-	CHECKPOINT_4H_1=	Gusty Canyon
-	CHECKPOINT_4H_2=	Eye of the Storm
+	CHECKPOINT_4H_0=	Clochán Chora
+	CHECKPOINT_4H_1=	Cainneon Fleách
+	CHECKPOINT_4H_2=	I mBéal na Stoirme
 
-	CHECKPOINT_5H_0=	Central Chamber
-	CHECKPOINT_5H_1=	Through the Mirror
-	CHECKPOINT_5H_2=	Mix Master
+	CHECKPOINT_5H_0=	Seomra Lárnach
+	CHECKPOINT_5H_1=	Tríd an Scáthán
+	CHECKPOINT_5H_2=	Máistir Meascadh
 
-	CHECKPOINT_6H_0=	Reflection
-	CHECKPOINT_6H_1=	Rock Bottom
-	CHECKPOINT_6H_2=	Reprieve
+	CHECKPOINT_6H_0=	Machnamh
+	CHECKPOINT_6H_1=	Íochtar ar fad
+	CHECKPOINT_6H_2=	Réiteach
 
 	CHECKPOINT_7H_0=	500 M
 	CHECKPOINT_7H_1=	1000 M
@@ -301,34 +301,34 @@
 	CHECKPOINT_7H_4=	2500 M
 	CHECKPOINT_7H_5=	3000 M
 
-	CHECKPOINT_8H_0=	Into the Core
-	CHECKPOINT_8H_1=	Burning or Freezing
-	CHECKPOINT_8H_2=	Heartbeat
+	CHECKPOINT_8H_0=	Isteach sa Chroí
+	CHECKPOINT_8H_1=	Dó nó Reo
+	CHECKPOINT_8H_2=	Buille an Chroí
 
 # Postcards
 	POSTCARD_AREA_1=
-		Select {#ff1144}Save and Quit{#} from the pause menu at any time to take a break. You'll resume from the same screen and you won't lose any progress!
+		Roghnaigh {#ff1144}Sábháil agus Scoir{#} ón roghchlár sosa ag aon am chun sos a ghlacadh. Atosóidh tú ón scáileán céanna agus ní chailleadh tú aon forás!
 
 	POSTCARD_AREA_2=
-		{#ff1144}Strawberries{#} will impress your friends, but that's about it. Only collect them if you really want to!
+		Rachaidh tú i bhfeidhm ar do chairde trí {#ff1144}Sútha Talún{#} a bhailiú, ach sin é. Bailligh iad ach amháin más mian leat!
 
 	POSTCARD_AREA_3=
-		Be proud of your {#ff1144}Death Count{#}!{n}The more you die, the more you're learning.{n}Keep going!
+		Bí bródúil as do {#ff1144}Líon Báis{#}!{n}Dá mhéad a fhaigheann tú bás, is mó a fhoghlaimíonn tú.{n}Coinnigh ort!
 
 	POSTCARD_AREA_4=
-		{# F94A4A}Climbing Tip!{#}{n}Low on energy in a pinch?{n}{n}Jumping away from walls{n}doesn't consume stamina!
+		{# F94A4A}Léid Dreapadh!{#}{n}An bhfuil ag rith as fuinneamh?{n}{n}Ní úsáideann léim siar ó bhallaí{n}teacht aniar ar bith!
 
 	POSTCARD_AREA_5=
-		{# F94A4A}Did You Know?{#}{n}Most climbing mishaps{n}occur due to exhaustion.{n}{n}Remember to take regular breaks!
+		{# F94A4A}An bhfuil a fhios 'at?{#}{n}Tarlaíonn an chuid is mó de{n}mhíthapa dreapadh mar gheall ar chloíteacht.{n}{n}Cuimhnigh ar shosanna rialta a ghlacadh!
 
 	POSTCARD_AREA_6=
-		{# F94A4A}Did You Know?{#}{n}{n}It is impossible to{n}outrun your own reflection.
+		{# F94A4A}An bhfuil a fhios 'at?{#}{n}{n}Ní féidir leat do scáil féin{n}a fhágadh ar deireadh.
 
 	POSTCARD_CSIDES=
-		Ready for a real challenge?{n}{n}{# F94A4A}C-Sides{#} have been unlocked, and{n}{# dbb63f}Golden Strawberries{#} have appeared{n}at the start of every chapter!{n}{n}Good luck, {+MADELINE}!
+		An bhfuil tú réidh le haghaidh fíordhúshlán?{n}{n}Tá {# F94A4A}Taobhanna-C{#} neamhghlasáilte, agus{n}cuireadh{# dbb63f}Sútha Talún Óir{#} ar fáil{n}ag tús de gach caibidil!{n}{n}Go n-éirí atá leat, {+MADELINE}!
 
 	POSTCARD_VARIANTS=
-		Wow, you did it!{n}{n}{# 9B3FB5}Variants{#} are now accessible from the File Select Menu.
+		M'anam, maith thú!{n}{n}Tá {# 9B3FB5}Leaganacha{#} anois ar fáil ón Roghchlár Comhad.
 
 # Journal
 	JOURNAL_OF=

@@ -98,7 +98,7 @@
 	OPTIONS_SPEEDRUN=		Clog Sciuirde
 	OPTIONS_SPEEDRUN_CHAPTER=Caibidil
 	OPTIONS_SPEEDRUN_FILE=	Comhad
-	OPTIONS_DASHES=			Áiritheoir Ráibe
+	OPTIONS_DASHES=			Áiritheoir Deifre
 	OPTIONS_LANGUAGE=		Teanga
 	OPTIONS_ON=				AR SIÚL
 	OPTIONS_OFF=			AS
@@ -288,7 +288,7 @@
 
 	CHECKPOINT_5H_0=	Seomra Lárnach
 	CHECKPOINT_5H_1=	Tríd an Scáthán
-	CHECKPOINT_5H_2=	Máistir Meascadh
+	CHECKPOINT_5H_2=	Máistir Athmheascadh
 
 	CHECKPOINT_6H_0=	Machnamh
 	CHECKPOINT_6H_1=	Íochtar ar fad
@@ -334,7 +334,7 @@
 	JOURNAL_OF=
 	JOURNAL_PROGRESS=				FORÁS
 	JOURNAL_SPEEDRUNS=				CURIARRACHTAÍ:{n}SCIUIRDEANNA
-	JOURNAL_DASHES=					CURIARRACHTAÍ:{n}RÁIBEANNA IS LÚ
+	JOURNAL_DASHES=					CURIARRACHTAÍ:{n}DEIFIR DÉANTA IS LÚ
 	JOURNAL_DEATHS=					CURIARRACHTAÍ:{n}BÁSANNA IS LÚ
 	JOURNAL_POEM=					CROÍTHE CRIOSTAIL
 	JOURNAL_MODE_NORMAL=			CRÍOCHNÚ
@@ -348,129 +348,129 @@
 	STATS_TITLE=			Staitisticí Steam Domhanda
 	STAT_BERRIES=			Sútha Talún
 	STAT_DEATHS=			Básanna
-	STAT_DASHES=			Ráibeanna
+	STAT_DASHES=			Méid Deifre
 	STAT_GOLDBERRIES=		Caora Óir
 	STAT_PICO_BERRIES=		Sútha Talún PICO-8
 	STAT_PICO_DEATHS=		Básanna PICO-8
 	STAT_PICO_COMPLETES=	Críochnuithe PICO-8
 
 # Saving / Loading Failed
-	SAVEFAILED_TITLE=	UNABLE TO SAVE
-	SAVEFAILED_RETRY=	Try Again
-	SAVEFAILED_IGNORE=	Continue Without Saving
-	LOADFAILED_TITLE=	UNABLE TO LOAD
-	LOADFAILED_GOBACK=	Go Back
-	LOADFAILED_IGNORE=	Continue Without Saving
+	SAVEFAILED_TITLE=	SÁBHÁIL TEIPTHE
+	SAVEFAILED_RETRY=	Triail Arís
+	SAVEFAILED_IGNORE=	Lean ar aghaidh gan Sábháil
+	LOADFAILED_TITLE=	LÓDÁIL TEIPTHE
+	LOADFAILED_GOBACK=	Téigh Siar
+	LOADFAILED_IGNORE=	Lean ar aghaidh gan Sábháil
 
 # Tutorial
-	TUTORIAL_CLIMB=		CLIMB
-	TUTORIAL_HOLD=		HOLD
-	TUTORIAL_DASH=		DASH
-	TUTORIAL_DREAMJUMP=	JUMP
-	TUTORIAL_CARRY=		CARRY
+	TUTORIAL_CLIMB=		DREAP
+	TUTORIAL_HOLD=		COINNIGH
+	TUTORIAL_DASH=		DÉAN DEIFIR
+	TUTORIAL_DREAMJUMP=	LÉIM
+	TUTORIAL_CARRY=		IOMPAIR
 
 # Area Complete
-	AREACOMPLETE_NORMAL=				Chapter Complete
-	AREACOMPLETE_NORMAL_FULLCLEAR=		Chapter Clear
-	AREACOMPLETE_BSIDE=					B-Side Complete
-	AREACOMPLETE_CSIDE=					C-Side Complete
-	MOUNTAIN_COMPLETE_NORMAL=			Complete
-	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Clear
-	MOUNTAIN_COMPLETE_BSIDE=			B-Side Complete
-	MOUNTAIN_COMPLETE_CSIDE=			C-Side Complete
+	AREACOMPLETE_NORMAL=				Chapter Críochnaithe
+	AREACOMPLETE_NORMAL_FULLCLEAR=		Caibidil Lánchríochnaithe
+	AREACOMPLETE_BSIDE=					Taobh-B Críochnaithe
+	AREACOMPLETE_CSIDE=					Taobh-C Críochnaithe 
+	MOUNTAIN_COMPLETE_NORMAL=			Críochnaithe
+	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Lánchríochnaithe
+	MOUNTAIN_COMPLETE_BSIDE=			Taobh-B Críochnaithe
+	MOUNTAIN_COMPLETE_CSIDE=			Taobh-C Críochnaithe
 
 # Game Paused
-	MENU_PAUSE_TITLE=			PAUSED
-	MENU_PAUSE_RESUME=			Resume
-	MENU_PAUSE_SKIP_CUTSCENE=	Skip Cutscene
-	MENU_PAUSE_RETRY=			Retry
-	MENU_PAUSE_ASSIST=			Assist Options
-	MENU_PAUSE_VARIANT=			Variants
-	MENU_PAUSE_OPTIONS=			Options
-	MENU_PAUSE_RESTARTAREA=		Restart Chapter
-	MENU_PAUSE_SAVEQUIT=		Save and Quit
-	MENU_PAUSE_RETURN=			Return to Map
-	MENU_PAUSE_RESTARTDEMO=		Restart Demo
-	MENU_RETURN_TITLE=			RETURN TO MAP?
-	MENU_RETURN_CONTINUE=		Yes
-	MENU_RETURN_CANCEL=			Cancel
-	MENU_RETURN_INFO=			Returning to Map will save your progress{n}
-								but you must restart at the last checkpoint
-	MENU_RESTART_TITLE=			RESTART CHAPTER?
-	MENU_RESTART_CONTINUE=		Yes
-	MENU_RESTART_CANCEL=		Cancel
+	MENU_PAUSE_TITLE=			CURTHA AR SOS
+	MENU_PAUSE_RESUME=			Tosaigh arís
+	MENU_PAUSE_SKIP_CUTSCENE=	Scipeáil Preabradharc
+	MENU_PAUSE_RETRY=			Atriail
+	MENU_PAUSE_ASSIST=			Roghanna Cúnta
+	MENU_PAUSE_VARIANT=			Leaganacha
+	MENU_PAUSE_OPTIONS=			Roghanna
+	MENU_PAUSE_RESTARTAREA=		Atosaigh Caibidil
+	MENU_PAUSE_SAVEQUIT=		Sábháil agus Scoir
+	MENU_PAUSE_RETURN=			Fill ar Léarscáil
+	MENU_PAUSE_RESTARTDEMO=		Atosaigh Taispeáint
+	MENU_RETURN_TITLE=			FILL AR LÉARSCÁIL?
+	MENU_RETURN_CONTINUE=		Fill
+	MENU_RETURN_CANCEL=			Cealaigh
+	MENU_RETURN_INFO=			Nuair a fhilleann tú ar an Léarscáil, sábhálfar d'fhorás{n}
+								ach caithfidh tú atosú ag an seicphointe deireanach
+	MENU_RESTART_TITLE=			ATOSAIGH CAIBIDIL?
+	MENU_RESTART_CONTINUE=		Atosaigh
+	MENU_RESTART_CANCEL=		Cealaigh
 
 # Assist UI
-	MENU_ASSIST_TITLE=					ASSIST MODE
-	MENU_ASSIST_SUBTITLE=				Assists
-	MENU_ASSIST_GAMESPEED=				Game Speed
-	MENU_ASSIST_INVINCIBLE=				Invincibility
-	MENU_ASSIST_AIR_DASHES=				Air Dashes
-	MENU_ASSIST_DASH_ASSIST=			Dash Assist
-	MENU_ASSIST_AIR_DASHES_NORMAL=		Default
+	MENU_ASSIST_TITLE=					MÓD CÚNTA
+	MENU_ASSIST_SUBTITLE=				Roghanna Cúnta
+	MENU_ASSIST_GAMESPEED=				Luas Cluiche
+	MENU_ASSIST_INVINCIBLE=				Dochloíteacht
+	MENU_ASSIST_AIR_DASHES=				Deifir Aeir
+	MENU_ASSIST_DASH_ASSIST=			Cúntóir Deifir
+	MENU_ASSIST_AIR_DASHES_NORMAL=		Réamhshocrú
 	MENU_ASSIST_AIR_DASHES_TWO=			2
-	MENU_ASSIST_AIR_DASHES_INFINITE=	Infinite
-	MENU_ASSIST_INFINITE_STAMINA=		Infinite Stamina
+	MENU_ASSIST_AIR_DASHES_INFINITE=	Gan Teorainn
+	MENU_ASSIST_INFINITE_STAMINA=		Teacht Aniar gan Teorainn
 
 # Variant UI
-	MENU_VARIANT_TITLE=					VARIANTS
-	MENU_VARIANT_SUBTITLE=				Variants
-	MENU_VARIANT_MIRROR=				Mirror Mode
-	MENU_VARIANT_360DASHING=			360 Dashing
-	MENU_VARIANT_INVISMOTION=			Invisible Motion
-	MENU_VARIANT_PLAYASBADELINE=		Other Self
-	MENU_VARIANT_NOGRABBING=			No Grabbing
-	MENU_VARIANT_LOWFRICTION=			Low Friction
-	MENU_VARIANT_SUPERDASHING=			Super Dashing
-	MENU_VARIANT_HICCUPS=				Hiccups
+	MENU_VARIANT_TITLE=					LEAGANACHA
+	MENU_VARIANT_SUBTITLE=				Leaganacha
+	MENU_VARIANT_MIRROR=				Mód Scátháin
+	MENU_VARIANT_360DASHING=			Deifir 360
+	MENU_VARIANT_INVISMOTION=			Gluaisne Dofheicthe
+	MENU_VARIANT_PLAYASBADELINE=		Féin Eile
+	MENU_VARIANT_NOGRABBING=			Cosc ar Breith
+	MENU_VARIANT_LOWFRICTION=			Frithchuimilt Ísle 
+	MENU_VARIANT_SUPERDASHING=			Sár-Deifir
+	MENU_VARIANT_HICCUPS=				Snaganna
 
 # Misc UI
-	UI_CUTSCENE_SKIP=	Skip
-	UI_REMIX_UNLOCKED=	B-Side Unlocked
-	UI_CANCEL=			Back
-	UI_CONFIRM=			Confirm
-	UI_QUICK_RESTART_TITLE=Quick Restart: 
-	UI_QUICK_RESTART_HOLD=Hold
-	UI_QUICK_RESTART_PRESS=Press
+	UI_CUTSCENE_SKIP=	Scipeáil
+	UI_REMIX_UNLOCKED=	Taobh-B Díghlasáilte 
+	UI_CANCEL=			Siar
+	UI_CONFIRM=			Deimhnigh
+	UI_QUICK_RESTART_TITLE=Atosú Tapa: 
+	UI_QUICK_RESTART_HOLD=Coinnigh
+	UI_QUICK_RESTART_PRESS=Brúigh
 
 # B SIDES
-	REMIX_BY=			Music by
-	REMIX_ALBUM=		Celeste B-Sides
+	REMIX_BY=			Ceol ag
+	REMIX_ALBUM=		Taobhanna-B Celeste
 
-	AREA_1_REMIX=		(Sever the Skyline Mix)
-	AREA_2_REMIX=		(Black Moonrise Mix)
-	AREA_3_REMIX=		(Good Karma Mix)
-	AREA_4_REMIX=		(Golden Feather Mix)
-	AREA_5_REMIX=		(Mirror Magic Mix)
-	AREA_6_REMIX=		(Center of the Earth Mix)
-	AREA_7_REMIX=		(No More Running Mix)
-	AREA_9_REMIX=		(Say Goodbye Mix)
+	AREA_1_REMIX=		(Athmheascadh Scoith an Spéirlíne)
+	AREA_2_REMIX=		(Athmheascadh Éirí na Gealaí Dubh)
+	AREA_3_REMIX=		(Athmheascadh Ádh Maith)
+	AREA_4_REMIX=		(Athmheascadh Cleite Óir)
+	AREA_5_REMIX=		(Athmheascadh Draíocht Sciathán)
+	AREA_6_REMIX=		(Athmheascadh Lár an Domhan)
+	AREA_7_REMIX=		(Athmheascadh Deireadh le Ritheadh)
+	AREA_9_REMIX=		(Athmheascadh Abair Slán)
 
 # Credits
-	CREDITS_THANKYOU=	Thanks for playing :)
+	CREDITS_THANKYOU=	Go raibh maith agat as imirt :)
 
 # Names
 	THEO=				{# FF9523}Theo{#}
-	THEO_UNDER_STARS=	{# FFFF4C}TheoUnderStars{#}
-	MIXMASTER_THEO=		{# FF9523}Mix Master Theo{#}
-	MOM=				{# 339CC7}Mom{#}
-	MROSHIRO=			{# 7BD838}Mr\. Oshiro{#}
+	THEO_UNDER_STARS=	{# FFFF4C}TheoFaoiRéaltaí{#}
+	MIXMASTER_THEO=		{# FF9523}Máistir Athmheascadh Theo{#}
+	MOM=				{# 339CC7}Mam{#}
+	MROSHIRO=			{# 7BD838}An Uasal Oshiro{#}
 	OSHIRO=				{# 7BD838}Oshiro{#}
 	ELCREEPO=			{# 7BD838}El Creepo{#}
 	MADELINE=			{# F94A4A}{savedata Name}{#}
-	MS_MADELINE=		{# F94A4A}Ms\. {savedata Name}{#}
-	RESORT=				{# b864be}Celestial Resort{#}
+	MS_MADELINE=		{# F94A4A}Iníon {savedata Name}{#}
+	RESORT=				{# b864be}Ionad Saoire Neamhaí{#}
 	THOUGHT=			{# 696a6a}{~}(
 	ENDTHOUGHT=			){/~}{#}
-	MOUNTAIN=			{# 96EFFF}Mountain{#}
-	CELESTE_MOUNTAIN=	{# 96EFFF}Celeste Mountain{#}
-	PART_OF_ME=			{# d678db}{~}Part of Me{/~}{#}
-	PART_OF_YOU=		{# d678db}{~}Part of You{/~}{#}
+	MOUNTAIN=			{# 96EFFF}Sliabh{#}
+	CELESTE_MOUNTAIN=	{# 96EFFF}Sliabh Celeste{#}
+	PART_OF_ME=			{# d678db}{~}Cuid Díom{/~}{#}
+	PART_OF_YOU=		{# d678db}{~}Cuid Díot{/~}{#}
 	ST_BAD=				{# d678db}{~}
 	END_BAD=			{/~}{#}
-	GRANNY=				{# 66ea3a}Granny{#}
-	PART_OF_HER=		{# 66ea3a}{~}Part of Her{/~}{#}
-	PART_OF_GRANNY=		{# 66ea3a}{~}Part of Granny{/~}{#}
+	GRANNY=				{# 66ea3a}Mamó{#}
+	PART_OF_HER=		{# 66ea3a}{~}Cuid Di{/~}{#}
+	PART_OF_GRANNY=		{# 66ea3a}{~}Cuid de Mhamó{/~}{#}
 
 # Theo sister name
 # if the player name is the same as this one, theo's sister name becomes the ALT_NAME
@@ -483,15 +483,15 @@
 # *** Prologue ***
 
 	CH0_INTRO=
-		This is it, {+MADELINE}.
-		Just breathe.
-		Why are you so nervous?
+		Seo é, {+MADELINE}.
+		Análaigh.
+		Cén fáth go bhfuil faitíos ort?
 
 	CH0_GRANNY=
 		{anchor top}
 
 		[MADELINE left normal]
-		Excuse me, ma'am?
+		Gabh mo leithscéal, a bhean uasal?
 
 		{trigger 0 Madeline walks forward}
 

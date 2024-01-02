@@ -370,7 +370,7 @@
 	TUTORIAL_CARRY=		IOMPAIR
 
 # Area Complete
-	AREACOMPLETE_NORMAL=				Chapter Críochnaithe
+	AREACOMPLETE_NORMAL=				Caibidil Críochnaithe
 	AREACOMPLETE_NORMAL_FULLCLEAR=		Caibidil Lánchríochnaithe
 	AREACOMPLETE_BSIDE=					Taobh-B Críochnaithe
 	AREACOMPLETE_CSIDE=					Taobh-C Críochnaithe 
@@ -496,20 +496,20 @@
 		{trigger 0 Madeline walks forward}
 
 		[MADELINE left normal]
-		The sign out front is busted...{n}is this the {+mountain} trail?
+		Tá an fógra os comhair do theach briste... {n}an bhfuil sé seo an chonair {+mountain}?
 
 		[GRANNY right normal]
-		You're almost there.{n}It's just across the bridge.
+		Tá tú beagnach ann.{n}Níl sé ach thar an droichid.
 
 		{trigger 1 Madeline walks to the right of the house, turns left}
 		
 		[MADELINE right sad]
-		By the way, you should call someone about your driveway. The ridge collapsed and I nearly died.
+		Dála an scéil, ba chóir duit cur glao ar duine maidir le do chabhsán. Thit an droim agus is beag nár thit an t-anam asam.
 
 		{trigger 2 Granny laughs}
 
 		[GRANNY left laugh]
-		If my {>> 0.3}"driveway"{>>}{0.2} almost did you in,{n}the {+mountain} might be a bit much for you.
+		Dá mbeifeá beagnach scriosta ag mo {>> 0.3}"chabhsán"{>>}{0.2},{n}d'fhéadfadh an {+mountain} bheith beagán iomarcach duit.
 
 		{trigger 3 Laugh Continues}
 
@@ -517,33 +517,33 @@
 		{0.5}...{0.2}
 
 		[MADELINE right angry]
-		Well, if an old bat like {~}you{/~} can{n}survive out here, I think I'll be fine.
+		Bhuel, más féidir le cailleach mar {~}thusa{/~}{n}a mhaireachtáil anseo, ceapaim go mbeidh mé togha.
 
 		{trigger 4 Stop laughing}
 
 		[GRANNY left normal]
-		Suit yourself.
+		Déan mar a thograíos tú féin.
 
 		{silent_trigger 5 Ominous zoom-in}
 
 		[GRANNY left normal]
-		But you should know,{n}{+CELESTE_MOUNTAIN} is a strange place.
+		Ach bí cúramach,{n}Is áit aisteach é {+CELESTE_MOUNTAIN}.
 
 		[GRANNY left creepA]
-		You might see things.
+		Seans go mbeidh rudaí ann.
 
 		[GRANNY left creepB]
-		Things you ain't ready to see.
+		Rudaí nach dtuigeann duine ar bith.
 
 		{trigger 6 pan to Maddy}
 
 		[MADELINE right upset]
-		You should seek help, lady.
+		Ba cheart duit lorg cúnaimh, a bhean.
 
 		{trigger 3 resume laughing}
 
 	CH0_END=
-		You can do this.
+		Is féidir leat.
 
 # *** Chapter 01 ***
 

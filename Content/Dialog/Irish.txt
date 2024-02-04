@@ -549,33 +549,33 @@
 
 	CH1_THEO_A=
 		[THEO left normal]
-		Ho there, fellow traveller!
+		Haigh, a chomhthaistealaí!
 
 		[MADELINE right distracted]
-		Oh... hi.
+		Ó... haigh.
 
 		{trigger 0 Madeline approaches}
 		
 		[THEO left normal]
-		What a killer night for a hike!
+		Nach sároíche do shiúlóid é?!
 
 		[MADELINE right distracted]
-		I guess so.
+		Is dócha é.
 
 		[THEO left normal]
-		This place is so crazy. 
+		Tá an áit seo craiceáilte. 
 
 		[THEO left excited]
-		I kind of can't believe it exists!
+		Nílim in ann chreidiúnt go bhfuil sé ann!
 
 		[MADELINE right sad]
-		Not the easiest climb, is it?
+		Níl sé an dreapadh is éasca, an ea?
 
 		[MADELINE right distracted]
-		But I guess that's what I was looking for...
+		Ach is dócha liom go raibh sé sin á lorg 'am...
 		
 		[THEO left normal]
-		Whoa, that sounds pretty serious.
+		Hó, déarfainn go bhfuil sé sin saghas dáiríre.
 		I'm just happy to see another{n}human in such a lonely place.
 
 		[THEO left excited]

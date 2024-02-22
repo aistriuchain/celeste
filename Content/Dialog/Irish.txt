@@ -576,23 +576,23 @@
 		
 		[THEO left normal]
 		Hó, déarfainn go bhfuil sé sin saghas dáiríre.
-		I'm just happy to see another{n}human in such a lonely place.
+		Nílim ach sásta duine eile{n}a fheiceáil in áit chomh uaigneach.
 
 		[THEO left excited]
-		I'm {+ theo} by the way, an adventurer from a {>> 0.3}{~}far off land!{/~}{>>}
+		Is mise {+ theo}, eachtranaí ó {>> 0.3}{~}thír i bhfad i gcéin!{/~}{>>}
 		
 		[MADELINE right sad]
 		...{0.2}
 
 		[THEO left thinking]
-		Not much of a talker, are you?
+		Níl tú róthógtha leis an caint, nach bhfuil tú?
 
 		[THEO left normal]
-		Mysterious lone wolf type, I get it.{n}I'll just imagine some dark backstory for you.
+		Saghas éin cuideáin rúndiamhair, tuigim.{n}Samhlóidh mé scéal cúlra dorcha duit.
 
 	CH1_THEO_B=
 		[MADELINE right sad]
-		Hey, sorry. I'm {+MADELINE}.
+		Haigh, tá brón orm. Is mise {+MADELINE}.
 		I've got a lot on my mind.
 
 		[THEO left normal]

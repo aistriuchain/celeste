@@ -593,10 +593,10 @@
 	CH1_THEO_B=
 		[MADELINE right sad]
 		Haigh, tá brón orm. Is mise {+MADELINE}.
-		I've got a lot on my mind.
+		Tá go leor ar m'intinn agam.
 
 		[THEO left normal]
-		Well, {+MADELINE}, I'd say you've come to the right place!
+		Bhuel, {+MADELINE}, déarfainn go bhfuil tusa san áit cheart!
 
 		[THEO left thinking]
 		I'm freezing my toes off, but I can't imagine{n}a better place to be for some quiet reflection.

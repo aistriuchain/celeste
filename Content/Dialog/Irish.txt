@@ -496,7 +496,7 @@
 		{trigger 0 Madeline walks forward}
 
 		[MADELINE left normal]
-		Tá an fógra os comhair do theach briste... {n}an bhfuil sé seo an chonair {+mountain}?
+		Tá an fógra os comhair do theach briste... {n}an bhfuil sé seo an chonair {# 96EFFF}Sléibhe{#}?
 
 		[GRANNY right normal]
 		Tá tú beagnach ann.{n}Níl sé ach thar an droichid.
@@ -599,113 +599,113 @@
 		Bhuel, {+MADELINE}, déarfainn go bhfuil tusa san áit cheart!
 
 		[THEO left thinking]
-		I'm freezing my toes off, but I can't imagine{n}a better place to be for some quiet reflection.
+		Tá mo laidhre sioctha, ach ní féidir liom{n}áit níos fearr a shamhlú do roinnt machnaimh ciúin.
 		
 		[MADELINE right sad]
-		Yeah, maybe you're right.
+		Sea, b'fhéidir go bhfuil an ceart agat.
 
 		[MADELINE right normal]
-		What "{>> 0.5}{~}far off land{/~}{>>}" do you hail from?
+		Cén "{>> 0.5}{~}tír i bhfad i gcéin{/~}{>>}" as a bhfuil tú?
 		
 		[THEO left excited]
-		Well, my inquisitive compatriot, I doth hail{n}from the {0.3}{~}mystical,{0.4} exotic{/~}{0.4} kingdom of...
+		Bhfuel, a chara, is as {n}an ríocht{0.3}{~}rúndiamhair,{0.4} andúchasach{/~}{0.4} mé, darbh ainm...
 		
 		[THEO left normal]
 		{0.4} Seattle.
 
 		[MADELINE right normal]
-		It sounds like a special place.
+		Déarfainn gur áit speisialta í.
 
 	CH1_THEO_C=
 		[THEO left excited]
-		This place is wild!
+		Tá an áit seo craiceáilte!
 
 		[THEO left normal]
-		Why would an entire city be abandoned?
+		Cén fáth go mbeadh cathrach ar fad tréigthe?
 		
 		[MADELINE right normal]
-		I read that some mega-corporation started{n}building it, but then no one wanted to live here.
+		Léigh mé gur thosaigh mórchorparáid á thógail,{n]ach ní raibh aon duine ag iarraidh bogadh anseo.
 
 		[MADELINE right distracted]
-		I wonder why...
+		Meas tú cén fáth...
 		
 		[THEO left excited]
-		My money's on a government cover-up.
+		Chuirfinn forcheilt rialtais air.
 
 		[MADELINE right distracted]
-		What a waste, to build all of this for no reason...
+		A leithéid do chur ama amú, é seo a thógáil gan fáth...
 
 		[THEO left normal]
-		At least we get to enjoy the leftovers.
+		Ar a laghad, is féidir linn baint taitnimh as na hiarsmaí.
 
 	CH1_THEO_D=
 		[MADELINE right normal]
-		Are you here to explore this city?
+		An bhfuil tú anseo chun féachaint thart an chathair?
 		
 		[THEO left normal]
-		Yeah, I have a thing for abandoned places.
+		Sea, tá spéis agam in áiteanna tréigthe.
 		
 		[THEO left thinking]
-		And I like to think of myself{n}as a budding photographer.
+		Agus feicim mé féin mar ghrianghrafadóir{n}atá ag teacht i gcrann.
 		
 		[MADELINE right normal]
-		Oh really? Cool!
-		Do you have a blog or something?
+		Ó dáiríre? Sin iontach!
+		An bhfuil blag agat nó rúd éigin?
 		
 		[THEO left thinking]
-		A blog?
+		Blag?
 		{+MADELINE}.
-		Everyone uses {# FFFF4C}InstaPix{#} now.
+		Úsáideann cách as {# FFFF4C}InstaPix{#} anois.
 		
 		[THEO left excited]
-		I'm {+THEO_UNDER_STARS}, look me up!
+		Táim {+THEO_UNDER_STARS}, cuardaigh dom!
 
 	CH1_THEO_E=
 		[THEO left normal]
-		This terrain is pretty tricky,{n}are you turning back soon?
+		Tá an tír-raon seo an-dheacair,{n}an bhfuil tú ag dul ar ais go luath?
 		
 		[MADELINE right normal]
-		Nope. I'm heading for the summit.
+		Nílim. Táim ag dul go dtí an mullach.
 		
 		[THEO left excited]
-		I can really see the determination in your eyes!
+		Tá díograis i do shúile!
 
 		[THEO left normal]
-		It's inspiring.
+		Tá sí inspioráideach.
 
 		[MADELINE right distracted]
-		If you say so.
+		Má tá a dhath le rá agat.
 
 		[MADELINE right normal]
-		I bet you could make it to the summit too.
+		Déarfainn gur féidir leat dul go dtí an mullach.
 
 		[THEO left normal]
-		Maybe. 
+		B'fhéidir. 
 		
 		[THEO left thinking]
-		I don't really care about reaching the top, TBH.
+		Is cuma liom faoin mullach, LBI.
 
 		[THEO left normal]
-		{!}Oh!{/!} But I heard there are some {~}legit{/~}{n}old ruins up beyond the city.
+		{!}Ó!{/!} Ach chuala mé go bhfuil roinnt {~}fíor-{/~}{n}sheanfhothracha taobh thall den chathair.
 		
 		[THEO left excited]
-		Like 1800's legit. 
+		Mar an 18ú aois fíor. 
 
 		[THEO left normal]
-		I know it's risky but I have to see them for myself.
+		Tá's agam go bhfuil sé dainséarach ach caithfidh mé iad a fheiceáil.
 
 	CH1_THEO_F=
 		[THEO left normal]
-		What's that thing you say right before{n}you do something irresponsible?
+		Cad a ndeir tú roimh a dhéanann tú{n}rud éigin mífheagrach?
 
 		[MADELINE right sad]
-		Uh... "throw caution to the wind?"
+		Uh... "ná bris do loirgín ar stól nach bhfuil i do shlí?"
 
 		[THEO left wtf]
-		No, that's not it.
+		Ní hea..
 
 		[THEO left excited]
-		Oh right...
+		Ó cinnte...
 
 		{trigger 0 Theo pumps his fist in the air}
 		
@@ -713,18 +713,18 @@
 		{big}{~}Y{>> 0.5}OLO{>> 0.2}OOOOOOOO!!{>>}{/~}{/big}
 
 	MEMORIAL=
-		-- CELESTE MOUNTAIN --
-		This memorial dedicated to those
-		Who perished on the climb
+		-- SLIABH CELESTE --
+		Tá an leacht seo in onóir de na daoine
+		go bhfuair bás agus iad ag dreapadh
 
 	CH1_END=
 		[MADELINE left distracted]
-		Ugh, I'm exhausted.
+		Ugh, táim tuirseach traochta.
 
 		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
 		
 		[MADELINE left deadpan]
-		{>> 0.4}This might have been a mistake.
+		{>> 0.4}Seans gur botún é seo.
 
 # *** Chapter 02 ***
 

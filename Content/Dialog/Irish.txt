@@ -176,7 +176,7 @@
 	ASSIST_ASK=		Ar mhaith leat imirt le {# 44adf7}Mód Cúnta{#}?
 	ASSIST_YES=		Ba mhaith
 	ASSIST_NO=		Níor mhaith
-	ASSIST_SKIP=	Cúnta{n}Scipeáil
+	ASSIST_SKIP=	Cúnta{n}Scipeála
 
 # File Naming
 	NAME_LETTERS=
@@ -608,7 +608,7 @@
 		Cén "{>> 0.5}{~}tír i bhfad i gcéin{/~}{>>}" as a bhfuil tú?
 		
 		[THEO left excited]
-		Bhfuel, a chara, is as {n}an ríocht{0.3}{~}rúndiamhair,{0.4} andúchasach{/~}{0.4} mé, darbh ainm...
+		Bhfuel, a chara, is as {n}an ríocht {0.3}{~}rúndiamhair,{0.4} andúchasach{/~}{0.4} mé, darbh ainm...
 		
 		[THEO left normal]
 		{0.4} Seattle.

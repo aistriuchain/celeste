@@ -624,7 +624,7 @@
 		Cén fáth go mbeadh cathrach ar fad tréigthe?
 		
 		[MADELINE right normal]
-		Léigh mé gur thosaigh mórchorparáid á thógail,{n]ach ní raibh aon duine ag iarraidh bogadh anseo.
+		Léigh mé gur thosaigh mórchorparáid á thógail, {n]ach ní raibh aon duine ag iarraidh bogadh anseo.
 
 		[MADELINE right distracted]
 		Meas tú cén fáth...

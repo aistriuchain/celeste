@@ -732,62 +732,62 @@
 		{anchor top}
 		
 		[BADELINE left normal]
-		{+MADELINE}, darling, slow down.
+		A {+MADELINE}, a stór, moilligh.
 
 		{trigger 0 Madeline turns around}
 		
 		[MADELINE right distracted]
-		Who said that?
+		Cé atá ansin?
 		
 		[BADELINE left normal]
-		Oh, I'm simply a concerned observer.
+		Ó, nílim ach i mo bhreathnóir imníoch.
 
 		{trigger 1 Badeline is revealed}
 		
 		[MADELINE right sad]
-		Are you... me?
+		An mise... thusa?
 
 		[BADELINE left normal]
-		I'm {+PART_OF_YOU}.
+		Táim {+PART_OF_YOU}.
 
 		[MADELINE right sad]
-		Why would {+PART_OF_ME} look so {0.3}{*}creepy?{/*}
+		Cén fáth go mbeadh cuma chomh {0.3}{*}lionraitheach{/*} ar Chuid Díom?
 
 		[BADELINE left worried]
 		...
 
 		[BADELINE left angry]
-		This is just what I look like, okay?
-		Deal with it.
+		Seo í an chuma atá ormse, ceart go leor?
+		Cuir suas leis.
 
 		[MADELINE right distracted]
-		Sorry, I didn't mean-
+		Gabh mo leithscéal, ní raibh sé sin i gceist-
 
 		[BADELINE left angry]
-		Forget about it.
-		I can't tell you what a relief it is{n}to {~}finally{/~} get out of your head.
+		Déan dearmad air.
+		Ní chreidfeá an faoiseamh orm{n}lé héalú do cheann {~}faoi dheireadh{/~}.
 
 		[BADELINE left upset]
-		But look, I'm worried about us.
+		Ach féach, táim buartha fúinn.
 
 		[BADELINE left normal]
-		We need a hobby, but this...
+		Tá caitheamh aimsire de dhíth orainn, ach é seo...
 		
 		[MADELINE right sad]
-		I know it sounds crazy, but{n}I need to climb this {+mountain}.
+		Tá's agam go bhfuil sé ar mire, ach{n}is gá dom an {+mountain} seo a dhreapadh.
 
 		{trigger 2 Badeline starts laughing}
 		
 		[BADELINE left scoff]
-		You are many things, darling,{n}but you are not a {~}mountain climber{/~}.
+		Tá go leor rudaí ionat, a stór,{n}ach ní {~}sléibhteoir{/~} thú.
 
 		[MADELINE right distracted]
-		Who says I can't be?
+		Cé a deir nach féidir liom?
 
 		{trigger 3 Badeline stops laughing}
 		
 		[BADELINE left upset]
-		I know it's not your strong suit,{n}but be reasonable for once.
+		Tá's agam nach bhfuil bua na réasúnaithe 'ad,{n}ach bí réasúnta.
 		You have no idea what you're getting into.
 		You can't handle this.
 		
@@ -5233,3 +5233,4 @@
 	WAVEDASH_PAGE5_INFO2=			{#ff0000}If you don't get much distance{#}{n}you're starting {~}too far{/~} from the ground.
 
 	WAVEDASH_PAGE6_TITLE=			Happy Wavedashing!
+

@@ -483,7 +483,7 @@
 # *** Prologue ***
 
 	CH0_INTRO=
-		Seo é, {+MADELINE}.
+		Seo é, a {+MADELINE}.
 		Análaigh.
 		Cén fáth go bhfuil faitíos ort?
 
@@ -527,7 +527,7 @@
 		{silent_trigger 5 Ominous zoom-in}
 
 		[GRANNY left normal]
-		Ach bí cúramach,{n}Is áit aisteach é {+CELESTE_MOUNTAIN}.
+		Ach bí cúramach,{n}Is áit aisteach í {+CELESTE_MOUNTAIN}.
 
 		[GRANNY left creepA]
 		Seans go mbeidh rudaí ann.
@@ -538,7 +538,7 @@
 		{trigger 6 pan to Maddy}
 
 		[MADELINE right upset]
-		Ba cheart duit lorg cúnaimh, a bhean.
+		Ba cheart duit lorg cúnaimh, a bhean uasail.
 
 		{trigger 3 resume laughing}
 
@@ -569,10 +569,10 @@
 		Nílim in ann chreidiúnt go bhfuil sé ann!
 
 		[MADELINE right sad]
-		Níl sé an dreapadh is éasca, an ea?
+		Ní an dreapadh is éasca é, an ea?
 
 		[MADELINE right distracted]
-		Ach is dócha liom go raibh sé sin á lorg 'am...
+		Ach is dóigh liom go raibh sé sin á lorg 'am...
 		
 		[THEO left normal]
 		Hó, déarfainn go bhfuil sé sin saghas dáiríre.
@@ -658,7 +658,7 @@
 		Úsáideann cách as {# FFFF4C}InstaPix{#} anois.
 		
 		[THEO left excited]
-		Táim {+THEO_UNDER_STARS}, cuardaigh dom!
+		{+THEO_UNDER_STARS} an t-ainm úsáideora atá orm, cuardaigh dom!
 
 	CH1_THEO_E=
 		[THEO left normal]
@@ -748,7 +748,7 @@
 		An mise... thusa?
 
 		[BADELINE left normal]
-		Táim {+PART_OF_YOU}.
+		Is {+PART_OF_YOU} atá ionam.
 
 		[MADELINE right sad]
 		Cén fáth go mbeadh cuma chomh {0.3}{*}lionraitheach{/*} ar Chuid Díom?
@@ -788,8 +788,8 @@
 		
 		[BADELINE left upset]
 		Tá's agam nach bhfuil bua na réasúnaithe 'ad,{n}ach bí réasúnta.
-		You have no idea what you're getting into.
-		You can't handle this.
+		Ní thuigeann tú cad é atá romhainn.
+		Ní féidir leat déileáil le seo.
 		
 		[MADELINE right upset]
 		That is exactly why I need to do this.
@@ -5233,4 +5233,5 @@
 	WAVEDASH_PAGE5_INFO2=			{#ff0000}If you don't get much distance{#}{n}you're starting {~}too far{/~} from the ground.
 
 	WAVEDASH_PAGE6_TITLE=			Happy Wavedashing!
+
 
